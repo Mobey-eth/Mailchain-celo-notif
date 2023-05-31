@@ -1,0 +1,12 @@
+# OS X
+.DS_Store
+
+# NPM
+node_modules
+
+# ENV
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
